@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklchika_github_io=self.webpackChunklchika_github_io||[]).push([[439],{5805:function(a){a.exports=JSON.parse('{"allTagsPath":"/lchika.github.io/blog/tags","slug":"/lchika.github.io/blog/tags/facebook","name":"facebook","count":1,"permalink":"/lchika.github.io/blog/tags/facebook"}')}}]);
