@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklchika_github_io=self.webpackChunklchika_github_io||[]).push([[59],{5630:function(u){u.exports=JSON.parse('{"allTagsPath":"/lchika.github.io/blog/tags","slug":"/lchika.github.io/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/lchika.github.io/blog/tags/docusaurus"}')}}]);
