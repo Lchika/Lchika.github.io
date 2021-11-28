@@ -24,7 +24,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+          editUrl: 'https://github.com/Lchika/Lchika.github.io/edit/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -41,9 +41,9 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: '射的ゲーム/intro',
+            docId: 'syateki-contest/intro',
             position: 'left',
-            label: '射的ゲーム',
+            label: '射的コンテスト',
           },
           {
             href: 'https://github.com/Lchika/Lchika.github.io',
