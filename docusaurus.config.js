@@ -59,8 +59,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: '射的ゲーム',
-                to: '/docs/射的ゲーム/intro',
+                label: '射的コンテスト',
+                to: '/docs/syateki-contest/intro',
               },
             ],
           },
