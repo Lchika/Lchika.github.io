@@ -50,4 +50,4 @@ jobs:
           else
             npm i
           fi
-          npm run deploy
+          DEPLOYMENT_BRANCH=gh-pages npm run deploy
