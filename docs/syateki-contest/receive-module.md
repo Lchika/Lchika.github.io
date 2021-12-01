@@ -26,7 +26,7 @@ sidebar_position: 2
 
 ### ユニット背面の説明
 
-ユニット背面には四隅に、深さ20cmのM3ネジ穴があります。ユニットの位置固定用に使ってください。ネジ穴の造形精度はそれなりなので、金属ネジで若干削りながら締めることになると思います。ネジ穴の入り口が狭くてネジが入らない場合は手元のドライバーとかで入り口を削ってください。
+ユニット背面には四隅に、深さ10cmのM3ネジ穴があります。ユニットの位置固定用に使ってください。ネジ穴の造形精度はそれなりなので、金属ネジで若干削りながら締めることになると思います。ネジ穴の入り口が狭くてネジが入らない場合は手元のドライバーとかで入り口を削ってください。
 
 ユニット背面の寸法の詳細は[外形及びSTLデータ](#外形及びstlデータ)に書いてあります。
 
@@ -71,13 +71,19 @@ M5Stamp PicoのIOのロジックレベルは3.3Vです。
 |スライドスイッチ|https://akizukidenshi.com/catalog/g/gP-12723/|
 |ピンソケット|https://akizukidenshi.com/catalog/g/gC-05779/|
 
-## 回路図
+## 回路図・基板図
 
-編集中
+![回路図](/img/syateki/receive-sch.png)
+
+見にくくてすみません。この基板は、違う用途にも使えるようにした関係で、本ユニットと関係のない経路が多いです。
+
+![基板図](/img/syateki/receive-pcb.png)
 
 ## 外形及びSTLデータ
 
-編集中
+[外形](https://github.com/Lchika/syateki_stamp_rally_contest/blob/main/receive-module/drawing/receive-drawing.pdf)
+
+[STLデータ](https://github.com/Lchika/syateki_stamp_rally_contest/tree/main/receive-module/stl)
 
 ## ファームウェア
 
