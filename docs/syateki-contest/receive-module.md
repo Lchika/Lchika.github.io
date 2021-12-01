@@ -8,6 +8,8 @@ sidebar_position: 2
 
 ## 動作デモ
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bju5XTzR49c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## ユニットの説明
 
 ユニット側面から出ているピンソケットに5V電源を接続することで使用します。
@@ -71,6 +73,12 @@ M5Stamp PicoのIOのロジックレベルは3.3Vです。
 
 ## 回路図
 
+編集中
+
 ## 外形及びSTLデータ
 
+編集中
+
 ## ファームウェア
+
+編集中
