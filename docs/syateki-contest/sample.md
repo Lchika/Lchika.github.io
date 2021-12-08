@@ -16,6 +16,15 @@ sidebar_position: 4
 
 [GitHub](https://github.com/Lchika/syateki_stamp_rally_contest/blob/main/target-sample/UIFlow/target-sample.m5f)
 
+## 部品表
+
+|部品名|購入先|
+|-|-|
+|M5StickC|https://www.switch-science.com/catalog/5517/|
+|M5StickC 8Servos Hat|https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-5PJP|
+|GROVE 4ピンケーブル 50cm(片側をジャンパオスコネクタに改造)|https://www.switch-science.com/catalog/797/|
+|360°連続回転サーボ(ローテーションサーボ) FS90R ×2|https://akizukidenshi.com/catalog/g/gM-13206/|
+
 ## 写真
 
 赤外線受信モジュールの接続部
