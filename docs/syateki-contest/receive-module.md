@@ -18,6 +18,8 @@ sidebar_position: 2
 
 ![ピン接続](/img/syateki/receive-pin.JPG)
 
+起動すると、ユニット前面中央のフルカラーLEDがぽわーっと光ります。
+
 ### ユニット前面の説明
 
 ![前面](/img/syateki/front.jpg)
