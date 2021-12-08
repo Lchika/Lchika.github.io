@@ -14,6 +14,8 @@ sidebar_position: 4
 
 ![サンプルプログラム](/img/syateki/sample-program.png)
 
+[GitHub](https://github.com/Lchika/syateki_stamp_rally_contest/blob/main/target-sample/UIFlow/target-sample.m5f)
+
 ## 写真
 
 赤外線受信モジュールの接続部
